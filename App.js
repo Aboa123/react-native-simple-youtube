@@ -65,7 +65,7 @@ const App = (props) => {
 };
 
 App.defaultProps = {
-  videoId: "gOlwjwV9vik",
+  videoId: null,
   useThumbnail: true,
   thumbnailResize: "cover",
   height: "100%",
