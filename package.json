@@ -1,0 +1,47 @@
+{
+  "name": "react_native_simple_youtube_2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.0",
+    "react-native-webview": "^11.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.16",
+    "@babel/runtime": "7.13.10",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.64.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aboa123/react-native-simple-youtube.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-youtube",
+    "react-native-simple-youtube"
+  ],
+  "author": "Aboa123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aboa123/react-native-simple-youtube/issues"
+  },
+  "homepage": "https://github.com/Aboa123/react-native-simple-youtube#readme"
+}
